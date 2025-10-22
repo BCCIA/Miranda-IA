@@ -1,3 +1,4 @@
+
 // -------------------- SEGURIDAD: PROTECCIÓN POR PIN --------------------
 const PIN_CORRECTO = "5703";
 
